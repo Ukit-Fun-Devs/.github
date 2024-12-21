@@ -1,12 +1,5 @@
-## Hi there 👋
+![Banner]()
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Welcome to the ClassFlow Devs Organization
+We are committed to providing the best support and resources to ensure you get the most out of your app.
+- Join our [news channel](https://t.me/classflow_blog) to get updates on the latest changes.
